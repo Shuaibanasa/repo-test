@@ -5,3 +5,7 @@ def pay(amount, method):
         return f"Paid {amount} using PayPal."
     else:
         return "Payment method not supported."
+
+
+def wallet_payment():
+    pass
