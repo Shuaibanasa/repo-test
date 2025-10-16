@@ -8,3 +8,6 @@ def authenticate(user):
     if user == "admin":
         return True
     return False
+
+def validate():
+    pass
