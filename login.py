@@ -8,3 +8,7 @@ def authenticate(user):
     if user == "admin":
         return True
     return False
+
+def logout(user):
+    # Placeholder for logout logic
+    return f"{user} has been logged out."
