@@ -11,3 +11,12 @@ def authenticate(user):
 
 def validate():
     pass
+
+def logout(user):
+    # Placeholder for logout logic
+    return f"{user} has been logged out."
+
+
+
+
+
